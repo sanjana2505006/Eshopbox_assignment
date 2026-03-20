@@ -1,0 +1,30 @@
+Section A - Java MCQs
+1. (B) 4 bytes
+2. (B) extends
+3. (C) Compilation
+4. (A) true
+5. (B) HashSet
+6. (C) NullPointerException
+7. (C) O(1)
+8. (B) final
+9. (C) Map
+10. (A) Java Virtual Machine
+
+Section B - Spring Boot MCQs
+1. (C) @SpringBootApplication
+2. (C) Tomcat
+3. (B) @RestController
+4. (B) application.properties
+5. (B) @Autowired
+6. (A) @GetMapping
+7. (A) Auto Configuration
+8. (C) Service
+9. (A) spring-boot-starter-web
+10. (C) @Repository
+
+Section C - Database Questions
+1. (B) SELECT
+2. (B) Primary Key
+3. (C) HAVING
+4. (C) INNER JOIN
+5. (A) Atomicity
